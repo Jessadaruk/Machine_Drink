@@ -12,5 +12,5 @@
 
 # ClassDiagram
 
-
+![ตัวอย่า](https://github.com/Jessadaruk/Machine_Drink/blob/main/MachineDrink/Coffee/Screenshot%202025-02-03%20205406.png)
 
