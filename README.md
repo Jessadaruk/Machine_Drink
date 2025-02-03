@@ -12,5 +12,10 @@
 
 # ClassDiagram
 
-![ตัวอย่า](https://github.com/Jessadaruk/Machine_Drink/blob/main/MachineDrink/Coffee/Screenshot%202025-02-03%20205406.png)
+![ตัวอย่า](https://github.com/Jessadaruk/Machine_Drink/blob/main/MachineDrink/Coffee/Screenshot%202025-02-03%20204228.png)
+
+หลักการคือสร้างตาม Diagram กำหนดเมนุของแต่ละค่า และสร้างClassตัวดำเนินการ เป็นฟังชั่นในการซื้อและตรวจสอบวัตถุดิบ 
+และสุดท้าย Classวัตถุดิบเพื่อจัดการและคืนค่าหักลบออกไป
+
+ขอบคุณครับ
 
